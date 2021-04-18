@@ -1,0 +1,23 @@
+body {
+    
+}
+
+ul li{
+    display:inline-block ;
+}
+ul li a{
+    padding:2px 10px;
+    color:white;
+    background-color:blue;
+    text-decoration:none;
+    border:2px solid;
+}
+.bun a{
+    text-decoration:none;
+    color:white;
+    background-color:blue;
+    height:10px ;
+    width:auto;
+    padding:2px 18px;
+}
+
